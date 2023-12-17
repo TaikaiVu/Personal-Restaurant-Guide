@@ -66,6 +66,7 @@ const App = () => {
           options={restaurantGuideHeaderStyles}
         />
 
+
         <Stack.Screen 
           name="Edit Restaurant" 
           component={EditRestaurant} 
